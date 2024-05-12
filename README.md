@@ -1,8 +1,30 @@
-# React + Vite
+# Tres en Linea
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Juego de tres en linea, hecho con react, javascript y CSS.
 
-Currently, two official plugins are available:
+[!TIP]
+Ejectuara los siguientes comandos en la consola de GitBash.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## HOW TO INSTALL
+
+1. Clonar el repositorio:
+
+```bash
+git clone https://github.com/gerardoGP/tres-en-linea.git
+```
+
+2. Entrar al proyecto:
+
+```bash
+cd tres-en-linea
+```
+
+3. Instalar dependencias:
+```bash
+npm install
+```
+
+4. Ejecutar en el navegador:
+```bash
+npm run dev
+```
