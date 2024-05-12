@@ -5,7 +5,7 @@ Juego de tres en linea, hecho con react, javascript y CSS.
 [!TIP]
 Ejectuara los siguientes comandos en la consola de GitBash.
 
-## HOW TO INSTALL
+## Como instalar
 
 1. Clonar el repositorio:
 
